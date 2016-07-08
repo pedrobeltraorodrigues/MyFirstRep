@@ -1,3 +1,5 @@
 ﻿ficheiro de codigo #2
 
 novos desenvolvimentos: foi adicionado mais codigo e feitas alterações ao
+
+novas alterações: adicionada excepção
