@@ -3,3 +3,5 @@
 novos desenvolvimentos: foi adicionado mais codigo e feitas alterações ao
 
 novas alterações: adicionada excepção
+
+novas alterações: campeões europa 2016
